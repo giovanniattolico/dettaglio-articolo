@@ -1,0 +1,8 @@
+@import url("articleTitle.css");
+@import url("articleImage.css");
+@import url("articleText.css");
+@import url("articleSignature.css");
+
+body {
+    background-color: rgb(255, 254, 241);
+}
