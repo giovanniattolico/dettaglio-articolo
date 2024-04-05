@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&display=swap');
+
+.articleSignature {
+    font-family: Overpass Mono;
+    font-size: 22px;
+    font-weight: bold;
+}
